@@ -40,12 +40,12 @@ public class Cuadrado {
     * metodo para calcular el area de mi cuadrado, al recibir su lado
     */
     public float Area(int lado){      
-        return lado*lado; //devuelve el calculo de la variable lado por su lado
+        return (float) lado*(float) lado; //devuelve el calculo de la variable lado por su lado
     } //En el main imprimiré mi resultado así: System.out.println(claseCuadrado.Area(lado));
     
     //Perimetro
     public float Perimetro(int lado){      
-        return lado*4; //devuelve el calculo de la variable lado multiplicado por 4
+        return (float) lado*4; //devuelve el calculo de la variable lado multiplicado por 4
     }
 
     /**

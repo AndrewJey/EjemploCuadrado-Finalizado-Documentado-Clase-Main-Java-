@@ -1,0 +1,9 @@
+[
+  {
+    "project": "Ejemplo-master/Practica/build.xml",
+    "source": "checks/SquareCheck.java",
+    "main": "SquareCheck",
+    "headless": true,
+    "classpath": []
+  }
+]
